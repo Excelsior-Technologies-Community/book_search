@@ -40,7 +40,7 @@ class DemoPage extends StatelessWidget {
             title: "Dear writter you need to quite",
             author: "becca syme",
           ),
-          BookItem(title: "Writers and lovers", author: "lily king"),
+          BookItem(title: "Writers and lovers", author: "lily king",),
         ],
       ),
     );
